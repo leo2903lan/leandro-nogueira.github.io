@@ -1,0 +1,36 @@
+*{
+    text-align: center;
+}
+body{
+    background-color: #bde0fe ;
+    font-family: 'Cinzel', serif;
+}
+h1{
+    font-family: 'Architects Daughter', cursive;
+    color: #0081a7;
+    
+}
+h2{
+    font-family: 'Staatliches', cursive;
+    color: #8d99ae;
+}
+h3 {
+    font-weight: bold;
+}
+ul{
+    list-style: circle;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    display: inline-flex;
+    align-content: space-between ;
+    list-style: none;
+    color: #2b2d42;
+    
+}
+#perfil{
+    
+    border-radius: 50%;
+}
