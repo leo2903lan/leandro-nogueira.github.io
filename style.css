@@ -22,14 +22,26 @@ h3 {
 ul{
     list-style: circle;
 }
+li {
+    text-align: left;
+}
 a{
     text-decoration: none;
+    color: #2b2d42;
+    padding:5px 15px 5px 15px ;
+    
+    
+    margin-left: 15px;
+    margin-right: 15px;
+    
+    
 }
 nav{
     display: inline-flex;
-    align-content: space-between ;
-    list-style: none;
-    color: #2b2d42;
+    width: 100%;
+    justify-content: center;
+    background-color: #8d99ae;
+    justify-content: space-between;
     
 
 }
