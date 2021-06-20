@@ -66,6 +66,14 @@ header {
 aside {
     width: 20%;
 }
+footer {
+    width: 100%;
+    background-color: rgba(43, 45, 66, .8);
+    color: white;
+}
+footer a{
+    color: white;
+}
 #perfil{
     float: left;
     padding: 5px;
