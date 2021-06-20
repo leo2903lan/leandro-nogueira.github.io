@@ -2,7 +2,7 @@
     text-align: center;
     margin: 0;
     padding: 0;
-    border: 0;
+    
     
 }
 body{
@@ -48,8 +48,8 @@ a{
 }
 nav{
     display: inline-flex;
+    top: 0;
     width: 96%;
-    margin: 10px;
     justify-content: space-around;
     background-color: #8d99ae;
  
@@ -60,7 +60,7 @@ header {
     position: fixed;
     top: 0;
     width: 100%;
-    padding: 3px;
+    padding: 0 3px 3px 3px;
 }
 
 aside {
