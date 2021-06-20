@@ -15,8 +15,8 @@ h1{
     font-family: 'Architects Daughter', cursive;
     color: #0081a7;
     
-    margin: 10px;
-    padding: 10px;
+    margin: 0 10px;
+    padding: 5px 10px;
     
 }
 hr {
@@ -64,8 +64,19 @@ header {
 }
 
 aside {
+    display: inline-block;
     width: 20%;
+    margin-left: 30px;
 }
+
+section {
+    display: inline-block;
+    width: 75%;
+
+    border-left: 2px solid rgb(155, 114, 12);
+    
+}
+
 footer {
     width: 100%;
     background-color: rgba(43, 45, 66, .8);
@@ -93,4 +104,8 @@ footer a{
     
     margin-left: 40px;
     padding: 15px;
+}
+
+.conteudo{
+  
 }
