@@ -1,5 +1,5 @@
 # leo2903lan.github.io
 
-Primeira publicação de um web site, acompanhando meu desenvolvimento como Desenvolvedor Web!
+Primeira publicação de um web site, acompanhando minha evolução como Desenvolvedor Web!
 
-a cada dia novas atualizações com recursos aprendidos durante a aula.
+Acoplar novas features e layout com os conhecimentos e tecnologia adquiridos ao longo do curso na Trybe!
